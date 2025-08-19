@@ -1,0 +1,3 @@
+- git init - to initialize a folder for git to start tracking it
+- git status - to check what files or folders git is currently tracking
+- git add <filename>
