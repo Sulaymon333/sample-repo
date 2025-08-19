@@ -1,3 +1,5 @@
 - git init - to initialize a folder for git to start tracking it
 - git status - to check what files or folders git is currently tracking
-- git add <filename>
+- git add <filename> - git add the specified file
+- git add . - add all new files and those that changed
+- git commit -m 'my first commit' - commit the files that have been added
